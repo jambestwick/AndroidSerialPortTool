@@ -43,7 +43,7 @@ dependencies {
 ```
 
 
-Check out the full example server https://github.com/jambestwick/AndroidSerialTool
+Check out the full example server https://github.com/jambestwick/AndroidSerialPortTool
 
 ## Example library usage
 
@@ -65,7 +65,7 @@ Check out the full example server https://github.com/jambestwick/AndroidSerialTo
 
 ```
 
-See the full example https://github.com/jambestwick/AndroidSerialTool/tree/master/TestActivity.java
+See the full example https://github.com/jambestwick/AndroidSerialPortTool/tree/master/app/src/main/java/com/example/jambestwick/androidserialtool/simple/TestActivity.java
 
 
 
