@@ -22,7 +22,7 @@ Software architecture description
 
 # Android SerialPort protocol for #command
 
-[![Release](https://jitpack.io/v/NaikSoftware/StompProtocolAndroid.svg)](https://jitpack.io/#NaikSoftware/StompProtocolAndroid)
+[![](https://jitpack.io/v/jambestwick/AndroidSerialPortTool.svg)](https://jitpack.io/#jambestwick/AndroidSerialPortTool)
 
 ## Overview
 
