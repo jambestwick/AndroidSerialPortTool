@@ -40,6 +40,9 @@ public class TestActivity extends Activity implements SerialPortUtil.ResponseLis
     @Override
     protected void onDestroy() {
         super.onDestroy();
+        /**
+         * realase SerialPort
+         * **/
         SerialPortUtil.getInstance().closeSerialPort();
     }
 }
