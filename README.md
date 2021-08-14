@@ -1,8 +1,10 @@
 # AndroidSerialTool
 
+
+
 #### Description
 Android 串口通讯 协议封装
-针对一般数据帧的处理：
+针对一般数据帧Frame的处理：
 
 一般帧指令分为几个部分
 
